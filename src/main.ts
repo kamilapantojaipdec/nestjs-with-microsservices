@@ -6,3 +6,5 @@ async function bootstrap() {
   await app.listen(3000);
 }
 bootstrap();
+
+// parei no minuto 55.33 da aula Nestjs: javascript e microsserviços
